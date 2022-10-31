@@ -7,8 +7,7 @@ void Begin(){
 
     cout<<"\t\t\t\t\t**Matrix Calculator** \n";
     cout<<"\t\t\t\t\t*********************\n";
-    cout<<"\n Name:Mahmoud Tariq Mahmoud \n ID:1806170\nSec:1\n";
-
+   
 }
 
 int main()
